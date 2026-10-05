@@ -632,9 +632,5 @@ the JSON file field if the system command is unavailable.
    dosimetry protocols.* Physics in Medicine & Biology. 2011;56(2):453–471.
    [doi:10.1088/0031-9155/56/2/011](https://doi.org/10.1088/0031-9155/56/2/011)
 
-## Repository notes
 
-The project currently has no declared software license in the supplied files.
-Add a `LICENSE` file before distributing or accepting contributions under a
-specific open-source license.
 
